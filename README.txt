@@ -1,10 +1,8 @@
-###### Design of a travel agency website using HTML and SCSS technologies done as part of the "Web Development Course Part 3" course.
+Design of a travel agency website using HTML and SCSS technologies done as part of the "Web Development Course Part 3" course.
 
-<sup>YOU CAN CHECK IT HERE: https://nikolamat99.github.io/TROPICAL-PARADISE/</sup>
+YOU CAN CHECK IT HERE: https://nikolamat99.github.io/TROPICAL-PARADISE/
 
-<hr>
-
-<sup>Techniques used:</sup>
+Techniques used:
 - HTML
 - SCSS
 - JAVA SCRIPT
